@@ -4,6 +4,7 @@
 This repository contains some learning notes, materials and resources for the mathematical concept and theory of data science. You are welcome to contribute to uncover fields or make recommendation to this repository. Please contact me if the content posted here is incorrect or the link has expired. I would also like to give credit to all the authors who dedicated to preparing these articles and tutorials. Hope these resources can provide useful references for data scientists.
 
 ## Table of Content
+* [Linear Algebra](#linear-algebra)
 * [Metrics](#metrics)
 * [Data Normalization](#data-normalization)
 * [Feature Engineering](#feature-engineering)
@@ -13,6 +14,15 @@ This repository contains some learning notes, materials and resources for the ma
 * [Frequent Pattern Mining](#frequent-pattern-mining)
 
 ## Resources
+### Linear Algebra
+| Topic | Resource |
+|---|---|
+| Basics | • [HackMD](https://hackmd.io/@Xg9_wrttQju8FXRCNT-Baw/SyVE8OeWr) |
+| LU Decomposition | • [HackMD](https://hackmd.io/@Xg9_wrttQju8FXRCNT-Baw/ry4r-9eZB)<br> • [Wikipedia](https://en.wikipedia.org/wiki/LU_decomposition) |
+| QR Decomposition | • [HackMD](https://hackmd.io/@Xg9_wrttQju8FXRCNT-Baw/ry4r-9eZB)<br> • [MIT 18.06SC](https://www.youtube.com/watch?v=TRktLuAktBQ&)<br> • [Wikipedia](https://en.wikipedia.org/wiki/QR_decomposition)|
+| Eigendecomposition | • [HackMD](https://hackmd.io/@Xg9_wrttQju8FXRCNT-Baw/HJxf_9_bH)<br> • [MIT 18.065](https://www.youtube.com/watch?v=k095NdrHxY4) |
+| Singular Value Decomposition | • [HackMD](https://hackmd.io/@Xg9_wrttQju8FXRCNT-Baw/HJxf_9_bH)<br> • [Stanford CS341](https://www.youtube.com/watch?v=P5mlg91as1c)<br> • [MIT 18.065](https://www.youtube.com/watch?v=rYz83XPxiZo)<br> • [Medium (by Jonathan Hui)](https://medium.com/@jonathan_hui/machine-learning-singular-value-decomposition-svd-principal-component-analysis-pca-1d45e885e491)|
+
 ### Metrics
 | Topic | Resource |
 |---|---| 
@@ -20,7 +30,9 @@ This repository contains some learning notes, materials and resources for the ma
 | Distance and Similarity | • [HackMD](https://hackmd.io/@Xg9_wrttQju8FXRCNT-Baw/BkYRDtwR4)
 | Entropy | • [Towards Data Science (by Naoki Shibuya)](https://towardsdatascience.com/demystifying-entropy-f2c3221e2550)
 | Kullback-Leibler Divergence | • [Towards Data Science (by Naoki Shibuya)](https://towardsdatascience.com/demystifying-kl-divergence-7ebe4317ee68)
-| Precision and Recall | • [Wikipedia](https://en.wikipedia.org/wiki/Precision_and_recall#Definition_(classification_context)) |
+| Precision and Recall | • [Wikipedia](https://en.wikipedia.org/wiki/Precision_and_recall#Definition_(classification_context))<br> • [Towards Data Science (by Georgios Drakos)](https://towardsdatascience.com/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-3-classification-3eac420ec991) |
+| Regression Metrics | • [Towards Data Science (by Georgios Drakos)](https://towardsdatascience.com/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-1-regrression-metrics-3606e25beae0)<br> • [Towards Data Science (by Georgios Drakos)](https://towardsdatascience.com/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-2-regression-metrics-d4a1a9ba3d74) |
+| Harmonic Mean | • [Wikipedia](https://en.wikipedia.org/wiki/Harmonic_mean) |
 
 ### Data Normalization
 | Topic | Resource |
@@ -52,7 +64,7 @@ This repository contains some learning notes, materials and resources for the ma
 ### Bayesian Inference
 | Topic | Resource |
 |---|---|
-| Markov Chain Monte Carlo | [Towards Data Science (by Ben Shaver)](https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50) |
+| Markov Chain Monte Carlo | • [Towards Data Science (by Ben Shaver)](https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50) |
 | Bayesian Network | • [Medium (by Gönül Aycı)](https://medium.com/@aycignl/bayesian-networks-bns-bc53b29c3f66) |
 
 ### Frequent Pattern Mining
