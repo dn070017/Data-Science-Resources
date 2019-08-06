@@ -33,6 +33,7 @@ This repository contains some learning notes, materials and resources for the ma
 | Precision and Recall | • [Wikipedia](https://en.wikipedia.org/wiki/Precision_and_recall#Definition_(classification_context))<br> • [Towards Data Science (by Georgios Drakos)](https://towardsdatascience.com/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-3-classification-3eac420ec991) |
 | Regression Metrics | • [Towards Data Science (by Georgios Drakos)](https://towardsdatascience.com/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-1-regrression-metrics-3606e25beae0)<br> • [Towards Data Science (by Georgios Drakos)](https://towardsdatascience.com/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-2-regression-metrics-d4a1a9ba3d74) |
 | Harmonic Mean | • [Wikipedia](https://en.wikipedia.org/wiki/Harmonic_mean) |
+| Correlation Coefficients | • [HackMD](https://hackmd.io/@Xg9_wrttQju8FXRCNT-Baw/HyHDRsUmB) |
 
 ### Data Normalization
 | Topic | Resource |
