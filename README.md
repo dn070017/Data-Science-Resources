@@ -39,7 +39,8 @@ This repository contains some learning notes, materials and resources for the ma
 | Harmonic Mean | • [Wikipedia](https://en.wikipedia.org/wiki/Harmonic_mean) |
 | Correlation Coefficients | • [HackMD](https://hackmd.io/@Xg9_wrttQju8FXRCNT-Baw/HyHDRsUmB) |
 | Silhouette Index | • [Wikipedia](https://en.wikipedia.org/wiki/Silhouette_(clustering)) |
-| Dunn Index | • [Wikipedia](https://en.wikipedia.org/wiki/Dunn_index)
+| Dunn Index | • [Wikipedia](https://en.wikipedia.org/wiki/Dunn_index) |
+| Clustering Validation Metrics | • [Data Novia (by Alboukadel Kassambara)](https://www.datanovia.com/en/lessons/cluster-validation-statistics-must-know-methods/) |
 
 <sub>[Back to Top](#introduction)</sub>
 ## Data Normalization 
@@ -78,6 +79,8 @@ This repository contains some learning notes, materials and resources for the ma
 |---|---|
 | Affinity Propagation | • [Ritchie Vink](https://www.ritchievink.com/blog/2018/05/18/algorithm-breakdown-affinity-propagation/) |
 | DBSCAN | • [Medium (by Evan Lutins)](https://medium.com/@elutins/dbscan-what-is-it-when-to-use-it-how-to-use-it-8bd506293818) |
+| HDBSCAN | • [Towards Data Science (by Pepe Berba)](https://towardsdatascience.com/understanding-hdbscan-and-density-based-clustering-121dbee1320e)<br>• [PyData (by John Healy)](https://www.youtube.com/watch?v=dGsxd67IFiU)|
+| Self Organizing Maps | • [Towards Data Science (by Abhinav Ralhan)](https://towardsdatascience.com/self-organizing-maps-ff5853a118d4) |
 
 <sub>[Back to Top](#introduction)</sub>
 ## Bayesian Inference
@@ -96,6 +99,6 @@ This repository contains some learning notes, materials and resources for the ma
 ## Interpretable Machine Learning
 | Topic | Resource |
 |---|---|
-| Local Interpretable Model-agnostic Explanations | • [HackMD](https://hackmd.io/aK6eDLAbRPGnjqrhicBLSQ) <br> • [O'REILLY Media](https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime) |
+| Local Interpretable Model-agnostic Explanations | • [HackMD](https://hackmd.io/aK6eDLAbRPGnjqrhicBLSQ)<br> • [O'REILLY Media](https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime) |
 
 <sub>[Back to Top](#introduction)</sub>
